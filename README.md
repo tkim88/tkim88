@@ -2,6 +2,7 @@
 
 My name is Tony Kim, I'm a self taught Full Stack Developer since 2020 
 
-- 🔭 I’m currently working on ... New Portfolio | React Projects for Portfolio 
-- 🌱 I’m currently learning ... Advanced JavaScript Concepts | SQL + Databases | React Developer | Jr to Sr Dev | Coding Exercises
+- 🔭 Currently working on ... New Portfolio | React Projects for Portfolio 
+- 🌱 Currently learning ... Advanced JavaScript Concepts | SQL + Databases | React Developer | Jr to Sr Dev | Learning to Learn 
+- 🚀 Finished Courses ... Data Structures + Algorithms | Python + Machine Learning + Data Science | Full Stack Web Dev 
 - ⚡ Facts: ...  I'm going to continue to learn and grow everyday 
