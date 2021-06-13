@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tony Kim, I'm a self taught Full Stack Developer since 2020 
+My name is Tony Kim, I'm a self taught Full Stack Developer since 2020 | From Los Angeles, CA | Currently Washington DC
 
 - 🔭 Currently Working On ... New Portfolio with React | eCommerce Website with React | Budget App 
 - 🌱 Currently Learning ... Advanced JavaScript Concepts | SQL + Databases | React Developer | Jr to Sr Dev | Learning to Learn 
