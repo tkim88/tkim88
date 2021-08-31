@@ -12,7 +12,7 @@ My name is Tony Kim, I'm a self taught Software Developer | Currently: Los Angel
 + Web & Mobile UI/UX Design with Figma 
 
 🔭 Currently Working On: 
-+ ecommerce website with React 
++ Projects for PORTFOLIO
 
 🦉 Currently Learning:
 + SQL + Databases
