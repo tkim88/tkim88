@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tony Kim, I'm a self taught Software Developer since 2020 | From: Los Angeles, CA | Currently: Washington DC
+My name is Tony Kim, I'm a self taught Software Developer | Currently: Los Angeles, CA | Relocating: Washington DC
 
 🚀 Finished Courses: 
 + Data Structures + Algorithms
