@@ -2,6 +2,7 @@
 
 <h3 align="center"> My name is Tony Kim, I'm a Software Developer | Currently: Los Angeles, CA | Relocating: Washington DC </h3>
 
+
 🚀 Finished Courses: 
 + Data Structures + Algorithms
 + Python + Machine Learning + Data Science
