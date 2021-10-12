@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tony Kim</h1>
 
-My name is Tony Kim, I'm a Software Developer | Currently: Los Angeles, CA | Relocating: Washington DC
+<h1 align="center"> My name is Tony Kim, I'm a Software Developer | Currently: Los Angeles, CA | Relocating: Washington DC </h1>
 
 🚀 Finished Courses: 
 + Data Structures + Algorithms
