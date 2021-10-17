@@ -3,7 +3,7 @@
 <h3 align="center"> I'm a Software Developer | Currently: Los Angeles, CA | Relocating: Washington DC </h3>
 
 
-🚀 Finished Courses: 
+### 🚀 Finished Courses: 
 + Data Structures + Algorithms
 + Python + Machine Learning + Data Science
 + Full Stack Web Development
@@ -12,16 +12,16 @@
 + Agile & Scrum Methodologies
 + Web & Mobile UI/UX Design with Figma 
 
-🔭 Currently Working On: 
+### 🔭 Currently Working On: 
 + Projects for PORTFOLIO
 
-🦉 Currently Learning:
+### 🦉 Currently Learning:
 + SQL + Databases
 + React Developer
 + Jr to Sr Developer 
 + React Native  
 
-💪 Next Learning: 
+### 💪 Next Learning: 
 + Ethical Hacking
 + Angular + Vue
 + Node.Js
@@ -29,4 +29,4 @@
 + Deno
 + Go
 
-⚡ Motivation: "continue to learn and grow everyday"
+### ⚡ Motivation: "continue to learn and grow everyday"
