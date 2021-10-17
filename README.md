@@ -13,7 +13,8 @@
 + Web & Mobile UI/UX Design with Figma 
 
 ### 🔭 Currently Working On: 
-+ Projects for PORTFOLIO
++ Projects for Portfolio 
++ Looking for SDE Role 
 
 ### 🦉 Currently Learning:
 + SQL + Databases
