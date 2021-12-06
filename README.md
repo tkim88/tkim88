@@ -2,14 +2,14 @@
 
 <h3 align="center"> I'm a Software Developer | Currently: Los Angeles, CA | Relocating: Washington DC </h3>
 
-## 🦉 A LIFE LONG LEARNER & PROBLEM SOLVER 
-## 👽 Object Oriented Programming + Functional Programming 
-## 👓 Data Structures + Algorithms 
-## 🐞 Testing + Optimizing + Scripting + Debugging + Refactoring
-## 🙌 Agile/Scrum Methodologies + Kanban + Scrumban
-## 🛒 SQL + DBMS + RDBMS
-## 🎨 UI/UX Design 
-## ✈ Machine Learning + Data Science + Automation
+### 🦉 A LIFE LONG LEARNER & PROBLEM SOLVER 
+### 👽 Object Oriented Programming + Functional Programming 
+### 👓 Data Structures + Algorithms 
+### 🐞 Testing + Optimizing + Scripting + Debugging + Refactoring
+### 🙌 Agile/Scrum Methodologies + Kanban + Scrumban
+### 🛒 SQL + DBMS + RDBMS
+### 🎨 UI/UX Design 
+### ✈ Machine Learning + Data Science + Automation
 
 ### 🚀 Finished Courses: 
 + Data Structures + Algorithms
