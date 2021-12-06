@@ -31,3 +31,12 @@
 + Go
 
 ### ⚡ Motivation: "continue to learn and grow everyday"
+
+🦉 A LIFE LONG LEARNER & PROBLEM SOLVER 
+👽 Object Oriented Programming + Functional Programming 
+👓 Data Structures + Algorithms 
+🐞 Testing + Optimizing + Scripting + Debugging + Refactoring
+🙌 Agile/Scrum Methodologies + Kanban + Scrumban
+🛒 SQL + DBMS + RDBMS
+🎨 UI/UX Design 
+✈ Machine Learning + Data Science + Automation
