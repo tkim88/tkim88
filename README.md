@@ -19,6 +19,7 @@
 + Advanced JavaScript Concepts
 + Agile & Scrum Methodologies
 + Web & Mobile UI/UX Design with Figma 
++ PHP + Wordpress 
 
 ### 🔭 Currently Working On: 
 + Projects for Portfolio 
