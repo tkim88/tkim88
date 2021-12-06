@@ -2,6 +2,7 @@
 
 <h3 align="center"> I'm a Software Developer | Located: Washington DC </h3>
 
+
 + 🦉 A LIFE LONG LEARNER & PROBLEM SOLVER 
 + 👽 Object Oriented Programming + Functional Programming 
 + 👓 Data Structures + Algorithms 
