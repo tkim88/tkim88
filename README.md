@@ -20,7 +20,7 @@
 + Advanced JavaScript Concepts
 + Agile & Scrum Methodologies
 + Web & Mobile UI/UX Design with Figma 
-+ PHP + Wordpress 
+
 
 ### 🔭 Currently Working On: 
 + Projects for Portfolio 
@@ -31,6 +31,8 @@
 + React Developer
 + Jr to Sr Developer 
 + React Native  
++ PHP + Wordpress 
++ Web Security + Bug Bounty + Penetration Testing 
 
 ### 💪 Next Learning: 
 + Ethical Hacking
