@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tony Kim</h1>
 
-<h3 align="center"> I'm a Software Developer | Currently: Los Angeles, CA | Relocating: Washington DC </h3>
+<h3 align="center"> I'm a Software Developer | Located: Washington DC </h3>
 
 + 🦉 A LIFE LONG LEARNER & PROBLEM SOLVER 
 + 👽 Object Oriented Programming + Functional Programming 
