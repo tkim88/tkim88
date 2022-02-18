@@ -24,7 +24,6 @@
 
 ### 🔭 Currently Working On: 
 + Projects for Portfolio 
-+ Looking for SDE Role 
 
 ### 🦉 Currently Learning:
 + SQL + Databases
