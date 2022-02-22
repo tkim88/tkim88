@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tony Kim</h1>
 
-<h3 align="center"> I'm an aspiring Frontend Developer/ Web Developer/ Software Developer | Located: Washington DC - Virginia Area </h3>
+<h3 align="center"> I'm a Frontend Developer/ Web Developer/ Software Developer | Located: Washington DC - Virginia Area </h3>
 
 
 + 🦉 A LIFE LONG LEARNER & PROBLEM SOLVER 
