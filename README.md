@@ -28,6 +28,7 @@
 ### 🦉 Currently Learning:
 + SQL + Databases
 + React Developer
++ React with Typescript
 + Jr to Sr Developer 
 + React Native  
 + PHP + Wordpress 
@@ -41,6 +42,4 @@
 + Deno
 + Go
 
-### ⚡ Motivation: "continue to learn and grow everyday"
-
-
+### ⚡ Motivation: "continue to learn and grow everyday" 
